@@ -5,7 +5,7 @@
 
 - 🧑🏻‍💻 **Android-Kotlin**
 
-- 📝 I regulary write articles on [https://birdeveloper.medium.com](birdeveloper.medium.com)
+- 📝 I regulary write articles on [birdeveloper.medium.com](https://birdeveloper.medium.com)
 
 - 📫 How to reach me **resulgorkemkara@gmail.com**
 
