@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Görkem KARA</h1>
 <h3 align="center">native android developer from Turkey</h3>
-
+<h5>As an Android Developer, my expertise lies in developing high-quality, efficient, and user-friendly mobile applications for Android platforms. With more than five years of experience, I have a strong understanding of Android app development frameworks, libraries, and tools such as Java, Kotlin, Android Studio, and the Android SDK.</h5>
 
 
 - 🧑🏻‍💻 **Android-Kotlin**
 
-- 📝 I regulary write articles on [birdeveloper.medium.com](https://birdeveloper.medium.com)
+- 📝 I regulary write articles on [gorkemkara.medium.com](https://gorkemkara.medium.com)
 
 - 📫 How to reach me **resulgorkemkara@gmail.com**
 
@@ -14,7 +14,7 @@
 <a href="https://twitter.com/gorkem_kr" target="blank"><img align="center" src="https://abs.twimg.com/favicons/twitter.2.ico" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/gorkemkara/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2201/PNG/512/linkedin_logo_square_icon_134016.png" height="40" width="40" /></a>
 <a href="https://instagram.com/gorrkem.kara" target="blank"><img align="center" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="gorrkem.kara" height="30" width="30" /></a>
-<a href="https://medium.com/@birdeveloper" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="@birdeveloper" height="40" width="40" /></a>
+<a href="https://medium.com/@gorkemkara" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="@gorkemkara" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
