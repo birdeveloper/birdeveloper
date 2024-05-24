@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Görkem KARA</h1>
-<h3 align="center">native android developer from Turkey</h3>
-<h5>As an Android Developer, my expertise lies in developing high-quality, efficient, and user-friendly mobile applications for Android platforms. With more than five years of experience, I have a strong understanding of Android app development frameworks, libraries, and tools such as Java, Kotlin, Android Studio, and the Android SDK.</h5>
+<h3 align="center">Senior Android Developer @Penti via 4aLabs</h3>
+<h5>As a Lead Mobile Developer (main Android), I possess extensive expertise in developing high-quality, efficient, and user-friendly mobile applications exclusively for Android platforms. With over seven years of professional experience, I have cultivated a comprehensive understanding of Android application development frameworks, libraries, and tools such as Java, Kotlin, Compose, Coroutines, Hilt</h5>
 
 
 - 🧑🏻‍💻 **Android-Kotlin**
